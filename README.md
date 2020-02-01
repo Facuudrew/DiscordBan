@@ -1,0 +1,2 @@
+# DiscordBan
+BannedServerd
